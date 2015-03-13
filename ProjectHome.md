@@ -1,0 +1,1 @@
+Dynamic workflow framework inspired by jbpm
